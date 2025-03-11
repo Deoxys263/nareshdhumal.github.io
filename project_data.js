@@ -127,5 +127,148 @@ var project_data = {
         ]
     },
 
+    'ecgc':{
+        "project_name":"ECGC Proposal Form",
+        "logo":"ecgc.png", //image will be 330*220
+        "url":"https://customercare.jmbaxi.com/login",
+        "private_reason":'0',
+        "organization":"phoenix infotech",
+        "short_description":"chartered studies is an exam portal for ca anspirants",
+        "description":"chartered studies is an exam portal for ca anspirants",
+        'screenshots':[
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+        ]
+    },
+
+    'nsdl-e-approval':{
+        "project_name":"NSDL E-Approvals",
+        "logo":"nsdl.png", //image will be 330*220
+        "url":"https://customercare.jmbaxi.com/login",
+        "private_reason":'0',
+        "organization":"NSDL",
+        "short_description":"chartered studies is an exam portal for ca anspirants",
+        "description":"chartered studies is an exam portal for ca anspirants",
+        'screenshots':[
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+        ]
+    },
+
+
+    //Idea Portal
+    'idea-portal':{
+        "project_name":"Idea Portal",
+        "logo":"jmbaxi-logo.png", //image will be 330*220
+        "url":"https://customercare.jmbaxi.com/login",
+        "private_reason":'0',
+        "organization":"Parasight Solutions",
+        "short_description":"chartered studies is an exam portal for ca anspirants",
+        "description":"chartered studies is an exam portal for ca anspirants",
+        'screenshots':[
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+        ]
+    },
+    //birla Library
+    'birla-library':{
+        "project_name":"Birla Library",
+        "logo":"birla-lib.png", //image will be 330*220
+        "url":"https://customercare.jmbaxi.com/login",
+        "private_reason":'0',
+        "organization":"Parasight Solutions",
+        "short_description":"chartered studies is an exam portal for ca anspirants",
+        "description":"chartered studies is an exam portal for ca anspirants",
+        'screenshots':[
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+        ]
+    },
+    //b-there
+    'b-there':{
+        "project_name":"B-there Gifts",
+        "logo":"birla-lib.png", //image will be 330*220
+        "url":"https://customercare.jmbaxi.com/login",
+        "private_reason":'0',
+        "organization":"Parasight Solutions",
+        "short_description":"chartered studies is an exam portal for ca anspirants",
+        "description":"chartered studies is an exam portal for ca anspirants",
+        'screenshots':[
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+        ]
+    },
+
+     //b-there
+     'cs-affil':{
+        "project_name":"CS Affiliation System",
+        "logo":"birla-lib.png", //image will be 330*220
+        "url":"https://customercare.jmbaxi.com/login",
+        "private_reason":'0',
+        "organization":"Parasight Solutions",
+        "short_description":"chartered studies is an exam portal for ca anspirants",
+        "description":"chartered studies is an exam portal for ca anspirants",
+        'screenshots':[
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+        ]
+    },
+
+     //Academy
+     'cs-affil':{
+        "project_name":"CS Affiliation System",
+        "logo":"birla-lib.png", //image will be 330*220
+        "url":"https://customercare.jmbaxi.com/login",
+        "private_reason":'0',
+        "organization":"Parasight Solutions",
+        "short_description":"chartered studies is an exam portal for ca anspirants",
+        "description":"chartered studies is an exam portal for ca anspirants",
+        'screenshots':[
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+        ]
+    },
+
+
+    // vani ERP
+    //Academy
+    'vani-erp':{
+        "project_name":"Vani ERP",
+        "logo":"birla-lib.png", //image will be 330*220
+        "url":"https://customercare.jmbaxi.com/login",
+        "private_reason":'0',
+        "organization":"Parasight Solutions",
+        "short_description":"chartered studies is an exam portal for ca anspirants",
+        "description":"chartered studies is an exam portal for ca anspirants",
+        'screenshots':[
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+            {"name":'name',"image":'image'},
+        ]
+    },
+
 
 };
