@@ -1,0 +1,77 @@
+.profile-img{
+    height: 450px;
+    border-radius: 50%;
+}
+
+.about-me-img{
+    height: 350px;
+    border-radius: 20px;
+}
+
+.info-box{
+    border:1px solid black;
+    border-radius:10px;
+    text-align: center;
+    padding: 10px 5px;
+}
+
+.lang-icons{
+    display:inline-block;
+    margin:5px;
+}
+
+.image_slides{
+    width: 250px;
+    padding: 2px;
+    margin: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+@media (max-width: 1200px) {
+    .about-me-img{
+        height: 230px;
+        border-radius: 20px;
+        margin-top: -120px;
+    }
+}
+
+@media (max-width: 1165px) {
+    .profile-img{
+        height: 350px;
+        border-radius: 50%;
+    }
+    .about-me-img{
+        height:200px;
+    }
+  }
+
+  @media (max-width: 992px) {
+    .profile-img{
+        height: 300px;
+        border-radius: 50%;
+    }
+  }
+
+  @media (max-width: 900px) {
+    .profile-img{
+        height: 200px;
+        border-radius: 50%;
+    }
+    h1.fw-bold{
+        font-size: 24px;
+    }
+    h4.text-muted{
+        font-size: 18px;
+    }
+    .download_cv_btn{
+        font-size: 13px;
+    }
+  }
+
+  @media (max-width: 768px) { 
+    .profile-img{
+        margin-left:auto;
+        margin-right:auto;
+    }
+  }
