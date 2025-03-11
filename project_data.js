@@ -20,7 +20,7 @@ var project_data = {
             {"name":'MCQ Exam Page',"image":'mcq_exam.png'},
 
             {"name":'Admin Dashboard',"image":'admin_dash.png'},
-            {"name":'Admin Dashboard',"image":'admin_dash2.png'},
+            {"name":'Admin Dashboard',"image":'admin_dash_2.png'},
             {"name":'Student Sheets Listing',"image":'student_sheets.png'},
             {"name":'Student Uploaded Sheet Details',"image":'uploaded_sheet_details.png'},
             {"name":'Checked Sheet Upload Page',"image":'checked_sheet_upload_page.png'},
