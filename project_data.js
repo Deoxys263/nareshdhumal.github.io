@@ -64,19 +64,26 @@ var project_data = {
     },
     
     'fpg':{
-        "project_name":"FPL London",
+        "project_name":"FL London",
         "logo":"fpg-logo.png", //image will be 330*220
         "url":"https://fieldsliving.co.uk/",
         "private_reason":'0',
         "organization":"Parasight Solutions",
-        "short_description":"chartered studies is an exam portal for ca anspirants",
-        "description":"chartered studies is an exam portal for ca anspirants",
+        "short_description":"fields living is a UK based property dealers. ",
+        "description":"fields living is an UK based firm who helps customers to buy, sell and rent their property, this application made with  laravel and google map api for autocomplete adresses, find nearest transport locations, show the route from transport location to property, display data on maps",
         'screenshots':[
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
+            {"name":'Landing Page',"image":'home1.png'},
+            {"name":'List Properties',"image":'properties_list.png'},
+            {"name":'List Properties',"image":'list-properties.png'},
+            {"name":'View Property Details',"image":'view-property1.png'},
+            {"name":'View Property Details- transport locations',"image":'view-property2.png'},
+            {"name":'Routes to the property',"image":'route-to_property.png'},
+            {"name":'Admin Login',"image":'admin-login.png'},
+            {"name":'Admin Dashboard',"image":'admin-dashboard.png'},
+            {"name":'Add Property Form',"image":'add-property-form.png'},
+            {"name":'Nearby transport location based on landmark',"image":'transport.png'},
+            {"name":'Import Properties from BLM file',"image":'import-blm.png'},
+            
         ]
     },
     'kf-risk':{
