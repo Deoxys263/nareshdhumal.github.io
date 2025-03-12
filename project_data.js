@@ -28,22 +28,22 @@ var project_data = {
            
         ]
     },
-    'CCP':{
-        "project_name":"Chartered Studies",
-        "logo":"project_thumb.png", //image will be 330*220
-        "url":"https://testseries.charteredstudies.in/",
-        "private_reason":'0',
-        "organization":"Parasight Solutions",
-        "short_description":"chartered studies is an exam portal for ca anspirants",
-        "description":"chartered studies is an exam portal for ca anspirants",
-        'screenshots':[
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-        ]
-    },
+    // 'CCP':{
+    //     "project_name":"Chartered Studies",
+    //     "logo":"project_thumb.png", //image will be 330*220
+    //     "url":"https://testseries.charteredstudies.in/",
+    //     "private_reason":'0',
+    //     "organization":"Parasight Solutions",
+    //     "short_description":"chartered studies is an exam portal for ca anspirants",
+    //     "description":"chartered studies is an exam portal for ca anspirants",
+    //     'screenshots':[
+    //         {"name":'name',"image":'image'},
+    //         {"name":'name',"image":'image'},
+    //         {"name":'name',"image":'image'},
+    //         {"name":'name',"image":'image'},
+    //         {"name":'name',"image":'image'},
+    //     ]
+    // },
     'PEM':{
         "project_name":"Marketing Expense Manager",
         "logo":"exp_mng.png", //image will be 330*220
@@ -199,7 +199,7 @@ var project_data = {
     //b-there
     'b-there':{
         "project_name":"B-there Gifts",
-        "logo":"birla-lib.png", //image will be 330*220
+        "logo":"b-there-logo.png", //image will be 330*220
         "url":"https://customercare.jmbaxi.com/login",
         "private_reason":'0',
         "organization":"Parasight Solutions",
@@ -217,7 +217,7 @@ var project_data = {
      //b-there
      'cs-affil':{
         "project_name":"CS Affiliation System",
-        "logo":"birla-lib.png", //image will be 330*220
+        "logo":"project_thumb.png", //image will be 330*220
         "url":"https://customercare.jmbaxi.com/login",
         "private_reason":'0',
         "organization":"Parasight Solutions",
@@ -233,29 +233,29 @@ var project_data = {
     },
 
      //Academy
-     'cs-affil':{
-        "project_name":"CS Affiliation System",
-        "logo":"birla-lib.png", //image will be 330*220
-        "url":"https://customercare.jmbaxi.com/login",
-        "private_reason":'0',
-        "organization":"Parasight Solutions",
-        "short_description":"chartered studies is an exam portal for ca anspirants",
-        "description":"chartered studies is an exam portal for ca anspirants",
-        'screenshots':[
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-        ]
-    },
+    //  'cs-affil':{
+    //     "project_name":"CS Academy",
+    //     "logo":"birla-lib.png", //image will be 330*220
+    //     "url":"https://customercare.jmbaxi.com/login",
+    //     "private_reason":'0',
+    //     "organization":"Parasight Solutions",
+    //     "short_description":"chartered studies is an exam portal for ca anspirants",
+    //     "description":"chartered studies is an exam portal for ca anspirants",
+    //     'screenshots':[
+    //         {"name":'name',"image":'image'},
+    //         {"name":'name',"image":'image'},
+    //         {"name":'name',"image":'image'},
+    //         {"name":'name',"image":'image'},
+    //         {"name":'name',"image":'image'},
+    //     ]
+    // },
 
 
     // vani ERP
     //Academy
     'vani-erp':{
         "project_name":"Vani ERP",
-        "logo":"birla-lib.png", //image will be 330*220
+        "logo":"vani-logo.png", //image will be 330*220
         "url":"https://customercare.jmbaxi.com/login",
         "private_reason":'0',
         "organization":"Parasight Solutions",
