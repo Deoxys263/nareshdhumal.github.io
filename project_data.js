@@ -6,7 +6,7 @@ var project_data = {
         "private_reason":'0',
         "organization":"Parasight Solutions",
         "short_description":"chartered studies is an exam portal for ca anspirants",
-        "description":"chartered studies is an exam portal for ca anspirants",
+        "description":"Chartered Studies is an exam portal for CA aspirants. This portal provides students with both written and MCQ exams. Purchased batches contain papers that students solve and upload to the server. The CS team then evaluates the sheets, grades them, and uploads the checked sheets. This portal also offers additional features such as a discussion forum and quizzes with certificates. This application contains settings and options to show data, sections dynamically and enables disabled settings from admin side",
         'screenshots':[
             {"name":'Home page',"image":'homepage1.png'},
             {"name":'Home page',"image":'homepage2.png'},
@@ -50,14 +50,16 @@ var project_data = {
         "url":"https://marketingbudgetsoftware.podareducation.org/",
         "private_reason":'0',
         "organization":"Parasight Solutions",
-        "short_description":"chartered studies is an exam portal for ca anspirants",
-        "description":"chartered studies is an exam portal for ca anspirants",
+        "short_description":"Marketing Expense Manager is a tool for tracking advertising expenses",
+        "description":"Marketing Expense Manager is a tool for tracking money spend on different type of marketing and adventising, and this application is linked with lead square so that team can calculate costing per admission",
         'screenshots':[
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
+            {"name":'Login Screen',"image":'login.png'},
+            {"name":'Dashboard',"image":'dash1.png'},
+            {"name":'Dashboard',"image":'dash2.png'},
+            {"name":'Expense List',"image":'expenselist.png'},
+            {"name":'Expense Form',"image":'expenseform.png'},
+            {"name":'Detailed Report',"image":'detail_report.png'},
+            {"name":'Summary Report',"image":'summary_report.png'},
         ]
     },
     
