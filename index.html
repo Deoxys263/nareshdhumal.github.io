@@ -364,12 +364,12 @@
                       if(value.private_reason == "0"){
                         htm += `<a href="${value.url}" target="_new" class="btn btn-success m-1" data-mdb-ripple-init>View</a>`;
                       }else{
-                        htm += `<p class="text-info">${value.private_reason}</p>`;
+                        htm += `<p class="text-info" style="margin-bottom:0px;">${value.private_reason}</p>`;
                       }
                       if(value.screenshots.length > 0){
                         htm += `<a href="preview.html?q=${code}" target="_new" class="btn btn-info m-1" data-mdb-ripple-init>Screen Shots</a>`;
                       }else{
-                        htm += `<p class="text-info">Preview Not Available</p>`;
+                        htm += `<p class="text-info" style="margin-bottom:0px;">Preview Not Available</p>`;
                       }
                     htm += `</div>
                   </div>
