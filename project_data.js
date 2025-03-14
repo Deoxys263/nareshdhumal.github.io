@@ -238,17 +238,23 @@ var project_data = {
      'cs-affil':{
         "project_name":"CS Affiliation System",
         "logo":"project_thumb.png", //image will be 330*220
-        "url":"https://customercare.jmbaxi.com/login",
+        "url":"https://testseries.charteredstudies.in/partner",
         "private_reason":'0',
         "organization":"Parasight Solutions",
-        "short_description":"chartered studies is an exam portal for ca anspirants",
-        "description":"chartered studies is an exam portal for ca anspirants",
+        "short_description":"CS Affilaite Portal designed for increase sales for batches and video courses",
+        "description":"CS Affilaite Portal is use for sell batches and video courses saparatly from the main portal, and earned commission from batches, partners comminicate with students and sell courses to them.",
         'screenshots':[
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
+            {"name":'Admin Dashboard',"image":'admin-dashboard.png'},
+            {"name":'Partners Listing',"image":'partners.png'},
+            {"name":'Sales Data Listing',"image":'sales-data.png'},
+            {"name":'Set comission to partner based on subcategory',"image":'partner-commision.png'},
+            {"name":'Partner Login',"image":'partner-login.png'},
+            {"name":'Partner Dashboard',"image":'partner-dashboard.png'},
+            {"name":'Partner Dashboard',"image":'partner-dsh1.png'},
+            {"name":'Create Purchase - Batch Selection',"image":'create-purchase.png'},
+            {"name":'Create Purchase - Student Details',"image":'create-purchase-student-details.png'},
+            {"name":'Wallet ',"image":'wallet.png'},
+            
         ]
     },
 
