@@ -188,17 +188,24 @@ var project_data = {
     'birla-library':{
         "project_name":"Birla Library",
         "logo":"birla-lib.png", //image will be 330*220
-        "url":"https://customercare.jmbaxi.com/login",
+        "url":"http://library.bkbck.edu.in",
         "private_reason":'0',
         "organization":"Parasight Solutions",
-        "short_description":"chartered studies is an exam portal for ca anspirants",
-        "description":"chartered studies is an exam portal for ca anspirants",
+        "short_description":"BKBCL is library portal for college and students",
+        "description":"BKBCL portal is modular application to show college library and other edutional details as well as news and achievement. all sections and links are manage from cms",
         'screenshots':[
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
+            {"name":'Home Page',"image":'home1.png'},
+            {"name":'Home Page',"image":'home2.png'},
+            {"name":'Home Page',"image":'home3.png'},
+            {"name":'Home Page',"image":'home4.png'},
+            {"name":'Home Page',"image":'home5.png'},
+            {"name":'Home Page',"image":'home6.png'},
+            {"name":'Home Page Footer',"image":'home-footer.png'},
+            {"name":'Inner Pages',"image":'pages.png'},
+            {"name":'Admin Dashboard',"image":'admin-dash.png'},
+            {"name":'Create Gallay Form',"image":'create-gallary.png'},
+            {"name":'Create CMS Page',"image":'create-cms.png'},
+            {"name":'Create News',"image":'create-news.png'},
         ]
     },
     //b-there
