@@ -173,13 +173,15 @@ var project_data = {
         "private_reason":'Application not hosted',
         "organization":"Parasight Solutions",
         "short_description":"Idea Portal created for share ideas & impleted them for organization ",
-        "description":"chartered studies is an exam portal for ca anspirants",
+        "description":"Idea Portal created for whole JMbaxi group and its port where all the employees can share there idea on portal then assessment team will review it and send for approval, same for the approval the team review and approve budget and implementation team will implement the idea and employee gets reward ",
         'screenshots':[
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
+            {"name":'Login Screen',"image":'login.png'},
+            {"name":'Admin Dashboard',"image":'admin-dashboard.png'},
+            {"name":'Roles & permissions',"image":'roles.png'},
+            {"name":'User Dashboard',"image":'user-dash.png'},
+            {"name":'Create Idea Page',"image":'create-idea.png'},
+            {"name":'Ideas Listing',"image":'idea-list.png'},
+            {"name":'Assessment team view details page of idea',"image":'team-idea-view.png'},
         ]
     },
     //birla Library
