@@ -212,17 +212,25 @@ var project_data = {
     'b-there':{
         "project_name":"B-there Gifts",
         "logo":"b-there-logo.png", //image will be 330*220
-        "url":"https://customercare.jmbaxi.com/login",
+        "url":"https://rjnmejkj.a2hosted.com/",
         "private_reason":'0',
         "organization":"Parasight Solutions",
-        "short_description":"chartered studies is an exam portal for ca anspirants",
-        "description":"chartered studies is an exam portal for ca anspirants",
+        "short_description":"B-there is a customisible gifts e-commerce portal",
+        "description":"B-there is a customisible gifts e-commerce portal. here customers can buy large variety of gifts such as photoframe, audio-photo frames, mugs, QR codes.",
         'screenshots':[
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
+            {"name":'Landing Page',"image":'home.png'},
+            {"name":'Home Page',"image":'home1.png'},
+            {"name":'Home Page',"image":'home2.png'},
+            {"name":'Home Page',"image":'home3.png'},
+            {"name":'Products Listing',"image":'listing-page.png'},
+            {"name":'Login',"image":'customer-login.png'},
+            {"name":'Orders Listing Customer',"image":'cust-orders.png'},
+            {"name":'Upload Assets',"image":'upload-assets.png'},
+            {"name":'Admin Dashboard',"image":'admin-dash.png'},
+            {"name":'Admin View Order',"image":'view-order.png'},
+            {"name":'Admin View Order',"image":'view-order2.png'},
+            {"name":'Admin Orders Listing',"image":'orders-listing.png'},
+            
         ]
     },
 
