@@ -258,41 +258,26 @@ var project_data = {
         ]
     },
 
-     //Academy
-    //  'cs-affil':{
-    //     "project_name":"CS Academy",
-    //     "logo":"birla-lib.png", //image will be 330*220
-    //     "url":"https://customercare.jmbaxi.com/login",
-    //     "private_reason":'0',
-    //     "organization":"Parasight Solutions",
-    //     "short_description":"chartered studies is an exam portal for ca anspirants",
-    //     "description":"chartered studies is an exam portal for ca anspirants",
-    //     'screenshots':[
-    //         {"name":'name',"image":'image'},
-    //         {"name":'name',"image":'image'},
-    //         {"name":'name',"image":'image'},
-    //         {"name":'name',"image":'image'},
-    //         {"name":'name',"image":'image'},
-    //     ]
-    // },
-
-
     // vani ERP
     //Academy
     'vani-erp':{
         "project_name":"Vani ERP",
         "logo":"vani-logo.png", //image will be 330*220
-        "url":"https://customercare.jmbaxi.com/login",
-        "private_reason":'0',
+        "url":"",
+        "private_reason":'Application is under Review',
         "organization":"Parasight Solutions",
-        "short_description":"chartered studies is an exam portal for ca anspirants",
-        "description":"chartered studies is an exam portal for ca anspirants",
+        "short_description":"Vani ERP is designed for manage accounts of school",
+        "description":"Vani ERP is an ERP System designed for vani vidyalaya for manage thir accounts, this software contains credit-debit vouchers, petty cash, intersectional transaction , school fees refund, fees data fetch from api. this system also manage journal and ledger of records",
         'screenshots':[
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
-            {"name":'name',"image":'image'},
+            {"name":'Dashboard',"image":'dashboard.png'},
+            {"name":'Credit Vouchers Listing',"image":'vouchers.png'},
+            {"name":'Create Voucher',"image":'create-voucher.png'},
+            {"name":'Receipts Payments',"image":'receipts_payments.png'},
+            {"name":'Income Vouchers',"image":'income.png'},
+            {"name":'Intersectional Transaction',"image":'create-intersec-transaction.png'},
+            {"name":'Create Contra Entry',"image":'contra-entry.png'},
+            {"name":'Ledger',"image":'ledger.png'},
+            {"name":'Trail Balance',"image":'trail-balance.png'},
         ]
     },
 
